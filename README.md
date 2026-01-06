@@ -5,7 +5,7 @@
 ---
 
 ### Profile
-R&D Lead specializing in the intersection of embedded system design and artificial intelligence. Expertise in building technologies in adherence with regulatory and QMS protocols, advanced embedded systems, and AI-driven data pipelines for complex signal analysis.
+R&D Leader at the intersection of embedded systems and Artificial Intelligence. Specializes in developing intelligent, compliant systems within QMS and regulatory frameworks. Expert in designing advanced data pipelines that transform complex data into reliable and actionable insights.
 
 ---
 
