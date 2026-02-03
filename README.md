@@ -15,6 +15,6 @@ R&D Leader at the intersection of embedded systems and Artificial Intelligence. 
 - **Signal Processing:** Time-series analysis, Digital Signal Processing, Computer Vision
 - **LLMs & Agentic Systems:** Fine-tuning, tool-using agents
 - **Languages:** Python, C++, MATLAB, SQL, VHDL
-- **Infrastructure & Deployment:** Docker, FastAPI, GCP/AWS, CI/CD
+- **Infrastructure & Deployment:** Docker, GCP/AWS, CI/CD
 
 ---
