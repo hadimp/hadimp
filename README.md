@@ -11,7 +11,7 @@ R&D Leader at the intersection of embedded systems and Artificial Intelligence. 
 
 ### Technical Interests
 
-- **Embedded & AI:** Embedded system design, Multimodal ML, Deep Learning, Real-time processing
+- **Embedded & AI:** Embedded system design, Multimodal ML, Deep Learning, Real-time Edge Computation
 - **Signal Processing:** Time-series analysis, Digital Signal Processing, Computer Vision
 - **LLMs & Agentic Systems:** Fine-tuning, tool-using agents
 - **Languages:** Python, C++, MATLAB, SQL, VHDL
